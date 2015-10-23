@@ -1,0 +1,18 @@
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\bin\Debug\wylicz_banknoty.exe
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\bin\Debug\wylicz_banknoty.pdb
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.Form1.resources
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.Properties.Resources.resources
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.exe
+C:\Users\gwozniak\AppData\Local\Temporary Projects\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.pdb
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.exe
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.pdb
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\bin\Debug\wylicz_banknoty.exe
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\bin\Debug\wylicz_banknoty.pdb
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.Form1.resources
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\wylicz_banknoty.Properties.Resources.resources
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gwozniak\documents\visual studio 2010\Projects\wylicz_banknoty\wylicz_banknoty\obj\x86\Debug\GenerateResource.write.1.tlog

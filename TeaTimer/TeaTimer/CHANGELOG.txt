@@ -1,0 +1,68 @@
+Tea Timer changelog
+---------------------
+7.18.2005 ver 1.5.3
+Bug fix: Pause works again.
+Bug fix: Previewing a sound on the timer and alarm screen works
+    as expected.
+
+7.15.2005 ver 1.5.2 *Updated documentation
+*Feature: Recurring timers.
+*Feature: Enabling/Disabling visual and/or audible alerts can
+    now be done for individual timers, overriding the global
+    settings.
+*Feature: Timers can launch external processes when they pop.
+*Feature: Double-clicking on the stopwatch brings timer up in "View
+    Timers" screen.
+*Feature: Ability to play mp3, wma, midi for audible alerts.
+*Feature: Stopwatch tooltip.
+*Feature: "View Timers" shows time left on selected timer.
+*Bug fix: Width of "Will pop" field in "View Timers" screen
+    lengthened.
+*Bug fix: Toggling 24 hour time format mode make changes immediatly.
+*Bug fix: Pause/Resume button in stopwatch correctly changes when
+    corrosponding timer is paused/resumed elsewhere in the program.
+
+7.13.2005 ver 1.5.1
+*Feature: Ability to pause, resume, and stop timers from their
+    corrosponding stopwatch(es).
+*Feature: Option to bring up a stopwatch when timers are set.
+*Feature: Ability to bring up a stopwatch from "view timers."
+*Bug fix: Using default icon and/or sound with a preset did not work
+    as expected.
+*Bug fix: Canceling a timer now causes corrosponding stopwatch(es) to
+    disappear.
+
+7.12.2005 ver 1.5
+*Feature: Position of visual alert is customizable.
+*Feature: Timers controlable via context menu.
+*Feature: Stopwatch mode added.
+*Feature: Customizable icon for each timer.
+*Feature: customizable sound for each timer.
+
+7.1.2005 ver 1.4.1
+*Feature: Visual alert can be disabled.
+*Bug fix: Capped number of characters that can be used in a timer name to
+    16 due to Windows limting the length of tool tips.
+
+6.28.2005 ver. 1.4
+*Feature: GUI made larger with more spacing between buttons.
+*Feature: Alarm mode added.
+*Feature: Option to use 24 hour time format within the program.
+*Bug fix: Improved tab stops. Using tab key now moves between form
+    elements in a logical fasion.
+
+6.22.2005 ver. 1.3
+*Bug fix: Random crashing when selecting a timer to view
+*Feature: Added ability to pause and resume a timer.
+*Feature: Improved look and feel of the whole application (I hope)
+*Feature: Added "Quick Add" buttons on the Create Timer screen.
+
+6.21.2005 ver. 1.2
+*Feature: Onscreen alert when a timer is set.
+*Feature: Improved look of Timer Popped alert window.
+
+6.20.2005 ver. 1.1
+*Bug fix: Random crashing when trying the view timers.
+
+6.17.2005 ver. 1.0
+*First revision of Tea Timer is released.

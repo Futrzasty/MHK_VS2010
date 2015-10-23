@@ -1,0 +1,15 @@
+Tea Timer TODO
+----------------
+* Better help document (any takers?)
+
+(done) * Allow user to select a different aubible alert per timer.
+(done) * Add timer controls to context menu for running timers.
+(done) * Stop-watch view for running timers.
+(done) * Customizable icon.
+
+Suggestions? 
+============
+Many of these TODO items were requested by users. I want to make
+this program as useful and complete as possible. If you have an
+idea to make this program work better for you, please,
+**** use the "Request a feature" link below! ****

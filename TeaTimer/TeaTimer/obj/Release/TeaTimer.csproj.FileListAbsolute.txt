@@ -1,0 +1,11 @@
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\bin\Release\TeaTimer.exe
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.About.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\FormFader.Fader.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.RtfBox.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.Stopwatch.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.TeaTimer.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.TimerPop.resources
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.csproj.GenerateResource.Cache
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.exe
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\bin\Release\TeaTimer.exe.config
+C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer\obj\Release\TeaTimer.csprojResolveAssemblyReference.cache

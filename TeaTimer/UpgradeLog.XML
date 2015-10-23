@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TeaTimer">
+</Property><Property Name="Solution File" Value="C:\Users\gwozniak\Documents\Visual Studio 2010\Projects\TeaTimer\TeaTimer.sln">
+</Property><Property Name="Date" Value="30 stycznia 2013">
+</Property><Property Name="Time" Value="08:58">
+</Property></Properties><Event ErrorLevel="0" Project="TeaTimer" Source="TeaTimer\TeaTimer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TeaTimer" Source="TeaTimer\TeaTimer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TeaTimer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TeaTimer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TeaTimer" Source="TeaTimer\TeaTimer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
